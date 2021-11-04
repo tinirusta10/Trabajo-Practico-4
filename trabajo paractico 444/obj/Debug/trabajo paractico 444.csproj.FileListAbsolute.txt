@@ -1,0 +1,10 @@
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\obj\Debug\trabajo paractico 444.csproj.AssemblyReference.cache
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\obj\Debug\trabajo_paractico_444.Form1.resources
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\obj\Debug\trabajo_paractico_444.Properties.Resources.resources
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\obj\Debug\trabajo paractico 444.csproj.GenerateResource.cache
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\obj\Debug\trabajo paractico 444.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\bin\Debug\trabajo paractico 444.exe.config
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\bin\Debug\trabajo paractico 444.exe
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\bin\Debug\trabajo paractico 444.pdb
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\obj\Debug\trabajo paractico 444.exe
+C:\Users\MARTIN\source\repos\trabajo paractico 444\trabajo paractico 444\obj\Debug\trabajo paractico 444.pdb
